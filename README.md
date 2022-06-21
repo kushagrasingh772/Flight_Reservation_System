@@ -139,3 +139,4 @@ If the  number of seats that the user wants is greater than the vacant seats , i
 #### 6.Exit: To exit the flight booking system.
 
 
+![flight](https://user-images.githubusercontent.com/52888710/174789023-ddaf679c-cc23-4593-8562-69f673633cf6.jpg)
