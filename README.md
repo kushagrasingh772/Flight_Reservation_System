@@ -1,6 +1,6 @@
 
 
-![cover](https://user-images.githubusercontent.com/52888710/174789023-ddaf679c-cc23-4593-8562-69f673633cf6.jpg)
+![cover](flight.jpg)
 
 # Flight_Reservation_System
 The project involves making use of Dijkstra's algorithm to develop a reservation system of the flights operating in the United States.
