@@ -44,11 +44,17 @@ For the purpose of this project, I have toned down the dataset to 2500 rows and 
 #### The processed dataset contains 7 columns which are:
 
 1.ORIGIN_AIRPORT
+
 2.DESTINATION_AIRPORT
+
 3.PASSENGERS
+
 4.SEATS
+
 5.DISTANCE
+
 6.DESTINATION_CITY
+
 7.ORIGIN_CITY
 
 
