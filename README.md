@@ -1,3 +1,7 @@
+
+
+![cover](https://user-images.githubusercontent.com/52888710/174789023-ddaf679c-cc23-4593-8562-69f673633cf6.jpg)
+
 # Flight_Reservation_System
 The project involves making use of Dijkstra's algorithm to develop a reservation system of the flights operating in the United States.
 
@@ -94,6 +98,7 @@ To recreate the path,
 
 We have stored all of the flight numbers from the path array from the origin city to the destination city 
 
+![flight](https://user-images.githubusercontent.com/52888710/174789023-ddaf679c-cc23-4593-8562-69f673633cf6.jpg)
 
 #### Reserving seats:
 We are first asking the origin and destination city and then checking our databases for possible combinations for such a journey and then returning the details of the flight(s) which is charging the customer with the minimum possible fare using dijkstra algorithm.
@@ -139,4 +144,4 @@ If the  number of seats that the user wants is greater than the vacant seats , i
 #### 6.Exit: To exit the flight booking system.
 
 
-![flight](https://user-images.githubusercontent.com/52888710/174789023-ddaf679c-cc23-4593-8562-69f673633cf6.jpg)
+
